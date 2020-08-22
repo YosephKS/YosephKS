@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Yoseph Kurnia Soenggoro
+### Full Stack Engineer at Baseline Software
 <!--
 **YosephKS/YosephKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
