@@ -1,8 +1,4 @@
 ## Hi, I'm Yoseph👋👨‍💻
-
-📫 How to reach me:
-- Email: yosephkurniasoenggoro@gmail.com
-- LinkedIn: Yoseph Kurnia Soenggoro
 <!--
 **YosephKS/YosephKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
