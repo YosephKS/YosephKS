@@ -2,7 +2,9 @@
 
 Welcome to my GitHub Profile Page!
 
-I'm Yoseph 👨‍💻 Fullstack Web2 + Web3 Developer From Indonesia 🇮🇩 working remotely around the world 🌎
+I'm Yoseph 👨‍💻 Head of Community Engineers @ Moralis Web3
+
+I come from Indonesia 🇮🇩 working remotely in the Metaverse
 
 I'm very enthusiastic of blockchain technology and BUIDLing decentralized applications using various Web3 stacks.
 
