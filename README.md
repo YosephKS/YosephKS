@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile Page!
 
-I'm Yoseph 👨‍💻 Head of Community Engineers @ Moralis Web3
+I'm Yoseph 👨‍💻
 
 I come from Indonesia 🇮🇩 working remotely in the Metaverse
 
